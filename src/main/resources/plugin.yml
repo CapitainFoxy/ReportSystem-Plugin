@@ -1,6 +1,5 @@
 name: ReportSystem
 author: CapitainFoxy
-version: 1.0
 main: com.capitainfoxy.Main
 description: A plugin that allows players to report issues via the /report command. Reports are visible in red on the server chat for operators and logged in the console.
 commands:
